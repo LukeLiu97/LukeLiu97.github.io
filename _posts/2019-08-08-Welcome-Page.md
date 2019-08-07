@@ -1,3 +1,6 @@
-# Welcome to the lukeliu97's blog
+---
+layout: post
+title: Welcome to the lukeliu97's blog
+---
 
 There is my networked graden.
