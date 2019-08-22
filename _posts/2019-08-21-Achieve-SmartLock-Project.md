@@ -5,10 +5,10 @@ title: Achieve SmartLock Project
 
 I make a smartlock based in stm32f103c8,
 
-This is project description (shown below).
+This is project description.
 ![DevelopLog]({{ site.baseurl }}/images/SmartLock_ver1_0.jpg)
 
-This is Development Board (shown below).
+This is Development Board.
 ![ Development_Board]({{ site.baseurl }}/imagesIMG_20190822_155155.jpg)
 
 
