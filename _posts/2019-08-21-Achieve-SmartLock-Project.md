@@ -9,7 +9,7 @@ This is project description.
 ![DevelopLog]({{ site.baseurl }}/images/SmartLock_ver1_0.jpg)
 
 This is Development Board.
-![ Development_Board]({{ site.baseurl }}/imagesIMG_20190822_155155.jpg)
+![ Development_Board]({{ site.baseurl }}/images/IMG_20190822_155155.jpg)
 
 
 
