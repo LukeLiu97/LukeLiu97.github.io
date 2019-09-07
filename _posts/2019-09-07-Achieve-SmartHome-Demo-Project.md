@@ -3,7 +3,7 @@ layout: post
 title: Achieve SmartHome Demo!
 ---
 
-Last Week,I'm achieve a SmartHome demo (shown below).
+Last Week,I have achieved a SmartHome demo (shown below).
 
 ![WebPage]({{ site.baseurl }}/images/20190907_WebPage.jpg)
 
