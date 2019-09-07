@@ -9,4 +9,4 @@ Last Week,I have achieved a SmartHome demo (shown below).
 
 ---
 
-About more [LukeLiue's SmartHome repository](https://https://github.com/LukeLiu97/SmartHome) on GitHub.
+About more [LukeLiue's SmartHome repository](https://www.github.com/LukeLiu97/SmartHome) on GitHub.
